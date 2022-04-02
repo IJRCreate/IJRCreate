@@ -1,0 +1,5 @@
+- Hello, I’m Isaac (@IJRCreate).
+- I’m studying a part-time degree at The Open University in Computing and Statistics.
+- At the moment I am learning Python and Java and am familiar with the basics of VBA and SQL. 
+- I currently work full time as a [financial crime analyst](https://www.linkedin.com/in/isaac-robinson-5a0b65117) but am looking to move into a graduate or junior development role.
+- [Contact me](mailto:isaacjohnrobinson@outlook.com)
